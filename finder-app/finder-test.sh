@@ -9,7 +9,7 @@ if [ "$#" -ne 2 ]; then
     echo "Usage: $0 <numfiles> <search_string>. Hence choosing numfiles = 10 and writestr = AELD_IS_FUN" 	
 	numfiles=10
 	writestr=AELD_IS_FUN 
-    exit 1
+
 fi
 
 
@@ -25,11 +25,12 @@ do
 	cd /home/jilsy/Assignment_1/student-test/assignment1/finder-app/tmp/aeld-data
 	touch ${username}${i}.txt
 	
-	cd /home/jilsy/Assignment_1/student-test/assignment1/finder-app
+	cd /home/jilsy/Assignment_1/finder-app
 	./writer.sh "/home/jilsy/Assignment_1/student-test/assignment1/finder-app/tmp/aeld-data/${username}${i}.txt" "$writestr"
 done
 
 directory=/home/jilsy/Assignment_1/student-test/assignment1/finder-app/tmp/aeld-data
-cd /home/jilsy/Assignment_1/student-test/assignment1/finder-app
 
+cd /home/jilsy/Assignment_1/finder-app
 ./finder.sh "$directory" "$writestr"
+
