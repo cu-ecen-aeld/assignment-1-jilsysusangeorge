@@ -1,0 +1,43 @@
+[33m17a46b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m)[m Correcting the initial commit
+[33me0122f2[m Initial commit
+[33m2248eed[m Initial commit
+[33m553f323[m[33m ([m[1;31massignments-base/master[m[33m)[m Merge pull request #20 from Amynka/master
+[33meed71d7[m fix git command in README.md
+[33m0c26576[m Merge pull request #11 from cu-ecen-aeld/update-assignment-autotest
+[33m8de9c85[m[33m ([m[1;31massignments-base/update-assignment-autotest[m[33m)[m assignment-autotest: Go to latest automated tests
+[33me5fa1f0[m Merge pull request #5 from cu-ecen-aeld/yaml-fix-a1
+[33m27c17d4[m[33m ([m[1;31massignments-base/yaml-fix-a1[m[33m)[m github-actions: Don't re-run on tags
+[33m633c604[m Update finder-test.sh (#4)
+[33m78dd304[m Fix comment in CMakeLists
+[33me861c03[m Use updated path to assignment autotest submodule
+[33m2021730[m Latest assignment autotest
+[33m3e2a932[m Replace git checkout submodule action
+[33m1aca481[m Update assignment tests
+[33m90cabec[m Update README.md
+[33m6c8d30e[m Update README.md
+[33ma84bd2d[m Latest assignment autotest repo
+[33m91988a7[m Use self hosted runner
+[33m758fe00[m Use shell script for finder implementation
+[33mbe364f3[m Fix paths in README
+[33ma81bb48[m Add github actions
+[33mb52aed8[m Fall 21 assignment 1 cleanup
+[33m807de20[m Latest test script
+[33mf2eca01[m Merge branch 'assignment1'
+[33m82b8514[m Fix comments
+[33mbe5241d[m Merge pull request #1 from cu-ecen-5013/assignment1
+[33mdbd4476[m Updates for assignment 1
+[33m65c307e[m Remove autotest-validate binary, add to gitignore
+[33m276d153[m Update comments for assignment 1
+[33m54d2ff7[m Rename to remove github from username ref
+[33m1e019d5[m Additional files for assignment 1
+[33m7c7faac[m Update assignemnt-autotest to latest, added TODO
+[33m944c885[m Submodule added, test.sh and unity framework included
+[33mdc7e752[m Added username for file name, and .txt eextesnion
+[33m4d17e7a[m Modifications for Spring 2020 semester
+[33madb26de[m Comment out writer line
+[33mc725b82[m MATCHSTR updated
+[33m56decec[m Remove rogue $i
+[33m381e10d[m Update README.md
+[33m63e69df[m Add merge assist blocks
+[33mc5b608b[m Assignment 1 base code
+[33m5af5b40[m Initial commit
